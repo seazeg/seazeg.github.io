@@ -1,0 +1,8 @@
+/*!
+ * HopeUI version 1.0.0
+ * Author Evan.G
+ * For more information, please visit https://github.com/seazeg/hopeUI
+ * HopeUI is available under the terms of the MIT license.
+ */
+
+/*! jQuery v1.8.3 jquery.com | jquery.org/license */
